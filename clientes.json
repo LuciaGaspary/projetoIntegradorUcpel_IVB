@@ -1,0 +1,44 @@
+{
+    "clientes": [
+        {
+            "cliente_id": 1,
+            "nome": "Lucia Gaspary Gomez",
+            "endereco": "Rua Sete de Setembro, 39",
+            "cep": "96015-300",
+            "data_de_nascimento": "1992-08-25",
+            "telefone": "(53) 981253524"
+        },
+        {
+            "cliente_id": 2,
+            "nome": "Fernanda Mota",
+            "endereco": "Rua Almirante Barroso, 1965",
+            "cep": "96010-280",
+            "data_de_nascimento": "1992-08-26",
+            "telefone": "(51) 981253524"
+        },
+        {
+            "cliente_id": 3,
+            "nome": "Giancarlo Lucca",
+            "endereco": "Rua Doutor João Pessoa, 792",
+            "cep": "96019-470",
+            "data_de_nascimento": "1992-08-27",
+            "telefone": "(11) 981253524"
+        },
+        {
+            "cliente_id": 4,
+            "nome": "Lenadro Zaffalon",
+            "endereco": "Rua Gonçalves Chaves, 373 ",
+            "cep": "96015-560",
+            "data_de_nascimento": "1992-08-28",
+            "telefone": "(44) 981253524"
+        },
+        {
+            "cliente_id": 5,
+            "nome": "Rogério Albandes",
+            "endereco": "Avenida Presidente Juscelino K. de Oliveira, 4808",
+            "cep": "96080-000",
+            "data_de_nascimento": "1992-08-29",
+            "telefone":  "(21) 981253524"
+        }
+    ]
+}
